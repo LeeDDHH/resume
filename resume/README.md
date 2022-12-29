@@ -58,7 +58,7 @@
   <img alt="styled-components" src="https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra UI-319795?style=flat-square&logo=Chakra UI&logoColor=white" />
-  <img alt="React Hook Form" src="https://img.shields.io/badge/-React Hook Form-EC5990?style=flat-square&logo=React Hook Form&logoColor=white" />
+  <img alt="React Hook Form" src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=React%20Hook%20Form&logoColor=white" />
 </p>
 
 ## 職務経歴詳細
