@@ -10,7 +10,7 @@
 ## Data
 
 - [PDF](https://github.com/LeeDDHH/resume/releases)
-- [File](https://github.com/LeeDDHH/resume/blob/master/docs/README.md)
+- [File](https://github.com/LeeDDHH/resume/blob/main/resume/README.md)
 
 ## Features
 
