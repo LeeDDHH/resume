@@ -1,28 +1,16 @@
-# {name} resume
+# LeeDDHH resume
 
-[![textlint](https://img.shields.io/github/workflow/status/{name}/resume/lint%20text?label=textlint&logo=github&color=yellow)](https://github.com/{name}/resume/actions?query=workflow%3A%22lint+text%22)
-[![build pdf](https://img.shields.io/github/workflow/status/{name}/resume/build-pdf?label=build%20pdf&logo=github)](https://github.com/{name}/resume/actions?query=workflow%3A%22build+pdf%22)
-[![create issue](https://img.shields.io/github/workflow/status/{name}/resume/create%20issue?label=create%20issue&logo=github&color=orange)](https://github.com/{name}/resume/actions?query=workflow%3A%22create+issue%22)
-[![release date](https://img.shields.io/github/release-date/{name}/resume?color=blue&logo=github)](https://github.com/{name}/resume/releases)
+[![textlint](https://img.shields.io/github/workflow/status/LeeDDHH/resume/lint%20text?label=textlint&logo=github&color=yellow)](https://github.com/LeeDDHH/resume/actions?query=workflow%3A%22lint+text%22)
+[![build pdf](https://img.shields.io/github/workflow/status/LeeDDHH/resume/build-pdf?label=build%20pdf&logo=github)](https://github.com/LeeDDHH/resume/actions?query=workflow%3A%22build+pdf%22)
+[![create issue](https://img.shields.io/github/workflow/status/LeeDDHH/resume/create%20issue?label=create%20issue&logo=github&color=orange)](https://github.com/LeeDDHH/resume/actions?query=workflow%3A%22create+issue%22)
+[![release date](https://img.shields.io/github/release-date/LeeDDHH/resume?color=blue&logo=github)](https://github.com/LeeDDHH/resume/releases)
 
-[ 日本語 | [English](https://github.com/{name}/resume/blob/main/README.en.md) ]
-
-## Sample
-
-- 自分の GitHub の ID が `LeeDDHH` の場合
-  - <https://github.com/LeeDDHH/resume>
+[ 日本語 | [English](https://github.com/LeeDDHH/resume/blob/main/README.en.md) ]
 
 ## Data
 
-- [PDF](https://github.com/{name}/resume/releases)
-- [File](https://github.com/{name}/resume/blob/master/docs/README.md)
-
-## Make Icon
-
-- 技術系のアイコンを作る場合
-  - [Simple Icons](https://simpleicons.org/)
-  - [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
-  - [shields.io で技術系のアイコンをたくさん作ってみる | 404 motivation not found](https://tech-blog.s-yoshiki.com/entry/150/?referer=https://t.co/)
+- [PDF](https://github.com/LeeDDHH/resume/releases)
+- [File](https://github.com/LeeDDHH/resume/blob/master/docs/README.md)
 
 ## Features
 
