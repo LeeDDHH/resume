@@ -15,7 +15,6 @@
 
 <p>
   <a href="https://github.com/LeeDDHH" target="_blank"><img alt="Github" src="https://img.shields.io/badge/LeeDDHH-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/camomile_cafe" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@camomile__cafe-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://expfrom.me" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-000000.svg?&style=flat-square&logo=Vercel&logoColor=white" /></a>
   <a href="https://qiita.com/camomile_cafe" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/camomile__cafe-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
   <a href="https://zenn.dev/camomile_cafe" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/camomile__cafe-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
@@ -58,12 +57,31 @@
   <img alt="styled-components" src="https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra UI-319795?style=flat-square&logo=Chakra UI&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-45b8d8?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="React Hook Form" src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=React%20Hook%20Form&logoColor=white" />
 </p>
 
 ## 職務経歴詳細
 
-### Sasuke Financial Lab 株式会社（2022/11〜現在）
+### harmo 株式会社（2023/06〜現在）
+
+薬局で患者情報を扱う業務システムの開発。
+
+- **プロジェクト規模：**
+  - 1〜3 人チームでの開発
+- **プロジェクト詳細：**
+  - Next.js での SSG 開発
+  - Emotion から Tailwind CSS へリファクタリング
+  - 薬局側から患者に提示する必要がある情報の PDF 出力機能実装
+  - Sentry に送信するログの選定と実装
+  - レセコンから出力した情報を自社のアプリケーションで収集する機能実装
+  - 正常系ログの選定と実装
+- **その他：**
+  - GA で測定するタグと GTM に送信する値の設計
+  - 社内ドキュメントの整備（フロントエンドの仕様・機能実装時のポイント、デスクトップアプリケーションの内部仕様）
+  - エンジニア採用（選考活動）
+
+### Sasuke Financial Lab 株式会社（2022/11〜2023/05）
 
 デジタル保険代理店「このほけん！」の開発。
 
@@ -75,6 +93,8 @@
     - ログイン
     - パスワード再設定
   - HTTP リクエスト呼び出しの標準化
+  - ページ表示速度改善
+    - 30 位から 3 位に引き上げ
 - **その他：**
   - ジュニアエンジニア向けのフロントエンド開発の指導（ペアプログラミング、実装に関する質問への回答）
   - 社内ドキュメントの整備（フロントエンドの仕様、機能実装時のポイント）
@@ -217,16 +237,16 @@
 ### 技術記事投稿
 
 - **Zenn**
-  - 2022/12 現在 2 記事、 6LIKE
+  - 2023/8 現在 5 記事、 30LIKE
   - [https://zenn.dev/camomile_cafe](https://zenn.dev/camomile_cafe)
 - **Qiita**
-  - 2022/12 現在、22 記事、 424LGTM
+  - 2022/12 現在、22 記事、 433LGTM
   - [https://qiita.com/camomile_cafe](https://qiita.com/camomile_cafe)
 
 ### 交流会の開催
 
 - **高円寺にて交流会を企画・運営**
-  - 無限餃子屋で乾杯（開催回数 2 回、 メンバー 8 人）
+  - 無限餃子屋で乾杯（開催回数 3 回、 メンバー 9 人）
   - [https://koenji-mugen-gyoza.connpass.com/](https://koenji-mugen-gyoza.connpass.com/)
 
 ### 勉強会の開催
