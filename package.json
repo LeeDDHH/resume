@@ -12,7 +12,7 @@
   "devDependencies": {
     "@proofdict/textlint-rule-proofdict": "^3.1.2",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^2.0.1",
-    "lefthook": "^1.4.9",
+    "lefthook": "^1.5.4",
     "md-to-pdf": "^5.2.4",
     "textlint": "^13.3.3",
     "textlint-rule-abbr-within-parentheses": "^1.0.2",
